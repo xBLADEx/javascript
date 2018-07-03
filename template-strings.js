@@ -1,4 +1,9 @@
+//--------------------------------------------------------------
+// TEMPLATE STRINGS
+//
 // CodePen: https://codepen.io/xBLADEx/pen/jKXPwo
+//--------------------------------------------------------------
+
 const weapons = ['Battle Axe', 'Short Sword', 'Dagger', 'Flail'];
 
 function buildArmory(gear) {
