@@ -20,4 +20,10 @@ const [helm, shield, belt, shoulder] = armor.split(',');
 // Rest. Spread the remaining into an array.
 const [primary, secondary, ...other] = gear;
 
-console.log(primary, secondary, other);
+// Swap values.
+let mainHand = 'Wand';
+let offHand = 'Orb';
+
+[mainHand, offHand] = [offHand, mainHand];
+
+console.log(mainHand, offHand);
