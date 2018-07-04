@@ -28,5 +28,11 @@ for (const weapon of weapons) {
 		break;
 	}
 
-	console.log(weapon);
+	// console.log(weapon);
+}
+
+// Example .entries()
+for (const [index, weapon] of weapons.entries()) {
+	// We destructure the entries array into variables.
+	console.log(index, weapon);
 }
