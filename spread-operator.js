@@ -19,4 +19,7 @@ const valuables = [...coins, ...gems];
 const myGems = [...gems];
 myGems[0] = 'Diamond';
 
-console.log(gems);
+// Converting NodeList to Array
+const gemList = [...document.querySelectorAll('.gems li')];
+
+console.log(gemList);
