@@ -1,5 +1,5 @@
 //--------------------------------------------------------------
-// DESTRUCTURING FUNCTIONS
+// ARRAY SOME AND EVERY
 //
 // CodePen: https://codepen.io/xBLADEx/pen/oyRzqM
 //--------------------------------------------------------------

@@ -1,5 +1,5 @@
 //--------------------------------------------------------------
-// DESTRUCTURING FUNCTIONS
+// REST PARAMETER
 //
 // CodePen: https://codepen.io/xBLADEx/pen/pKXPPP
 //--------------------------------------------------------------

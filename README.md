@@ -1,2 +1,3 @@
-# javascript
+# JavaScript
+
 JavaScript Examples

@@ -1,5 +1,5 @@
 //--------------------------------------------------------------
-// DESTRUCTURING FUNCTIONS
+// ARRAY FIND AND FIND INDEX
 //
 // CodePen: https://codepen.io/xBLADEx/pen/RJmGjE
 //--------------------------------------------------------------

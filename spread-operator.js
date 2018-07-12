@@ -1,5 +1,5 @@
 //--------------------------------------------------------------
-// DESTRUCTURING FUNCTIONS
+// SPREAD OPERATOR
 //
 // CodePen: https://codepen.io/xBLADEx/pen/BVeLqa
 //--------------------------------------------------------------
