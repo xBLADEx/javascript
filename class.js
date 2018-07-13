@@ -50,3 +50,16 @@ class Car {
 const honda = new Car('Honda', 'Civic Si');
 
 console.log(Car.info());
+
+// Extends
+class Motorcycle extends Vehicle {
+	constructor(make, model, wheels) {
+		// super is calling Vehicle, we pass in its parameters.
+		super(make, model);
+		this.wheels = wheels;
+	}
+}
+
+const bike = new Motorcycle('Kawasaki', 'Ninja', 2);
+
+console.log(bike.honk());
